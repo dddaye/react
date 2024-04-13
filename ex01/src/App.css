@@ -1,0 +1,20 @@
+.blue {
+  color: blue;
+  background: yellow;
+}
+
+.green {
+  color: green;
+}
+
+.value {
+  margin: 0px 20px;
+  font-size: 30px;
+}
+
+button {
+  background-color: cyan;
+  color: black;
+  font-size: 20px;
+  border-radius: 5px;
+}
